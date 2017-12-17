@@ -1,0 +1,28 @@
+html, body{
+  font-family: 'Montserrat', sans-serif;
+  background: rgba(50, 15, 29, .2);
+  font-size: 24px;
+  margin: 0 auto;
+  border: 6px solid black;
+  border-radius: 8px;
+}
+nav {
+  text-align: center;
+  padding: 2px 4px;
+  margin: 8px;
+  text-decoration: none;
+  background: black;
+  letter-spacing: 6px;
+}
+
+h1 {
+  font-size: 86px;
+  padding: 18px;
+}
+.heading {
+  text-align: center;
+  padding: 64px;
+}
+.first {
+  text-align: center;
+}
